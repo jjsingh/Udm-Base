@@ -10,5 +10,4 @@
 </head>
 <body <?php body_class(); ?>>
 
-testtttt
 <?php get_template_part( 'udm-plugin/headers'); ?>

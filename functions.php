@@ -418,5 +418,3 @@ function udm_gallery($atts, $content = null) {
 	endif;
 } 
 add_shortcode('udm_gallery', 'udm_gallery');
-
-echo 'helll ';
